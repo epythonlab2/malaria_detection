@@ -1,0 +1,4 @@
+# Exclude unnecessary contents
+.venv/
+*.pdf
+data/
